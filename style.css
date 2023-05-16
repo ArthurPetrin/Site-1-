@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to right, #27fdf5,#69d7f3,#a8f6f8,#b3fafa);
+    
+}
+
+.retangulo {
+    width: 300px;
+    height: 100vh; /* Ajuste a altura conforme necessário */
+    background-color: rgba(226, 102, 30, 0.219);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+  }
+  
+
+.Imagem1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link1{
+    color:#471758;
+    text-decoration: none;
+}
+
+.link2{
+    font-family:Arial, Helvetica, sans-serif;
+}
